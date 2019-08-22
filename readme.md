@@ -1,4 +1,4 @@
-@[toc](超简单个人公众号)
+
 # 1.主要技术：Flask,requests
 
  requirements.txt如下
