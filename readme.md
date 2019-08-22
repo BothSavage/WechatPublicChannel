@@ -11,7 +11,7 @@ xmltodict>=0.12.0
 - 调用机器人qingyunke的api，实现自动聊天
 - 上传永久素材，获取永久素材ID
 - 回复关注信息
-- ......![在这里插入图片描述](https://img-blog.csdnimg.cn/20190822224257294.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI2NjI0MzI5,size_16,color_FFFFFF,t_70)
+- ......![在这里插入图片描述](http://mmbiz.qpic.cn/mmbiz_png/f7PI7yfia3SeB52ACgSJtN24iccuN2hXm02f8UZrhXdA8jF2zP2hUWNwM6Lzibky9gTicERVCkbQiaDICavUttAXib5A/0)
 # 3.目录说明
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190822224936896.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI2NjI0MzI5,size_16,color_FFFFFF,t_70)
 - function/EventProcessing.py为事件处理，这里主要是订阅回复
@@ -51,9 +51,12 @@ xmltodict>=0.12.0
 # 5.关于作者
 内网穿透教程教程:
 https://www.cnblogs.com/simon-idea/p/11355704.html
+
 本公众号开发系列博客：
 https://www.cnblogs.com/simon-idea/category/1522621.html
+
 微信公众号：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190822230118472.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI2NjI0MzI5,size_16,color_FFFFFF,t_70)
+
+![在这里插入图片描述](http://mmbiz.qpic.cn/mmbiz_png/f7PI7yfia3SeB52ACgSJtN24iccuN2hXm0ldmHPxEDE6JcBHI2tArxuc2zib3qBrxnEmoibtbKHnsSvV64PnUXS4icA/0)
 
 
