@@ -1,0 +1,4 @@
+#ignore some files
+
+/resource/KeyWord.json
+/resource/SET.json
