@@ -55,8 +55,4 @@ https://www.cnblogs.com/simon-idea/p/11355704.html
 本公众号开发系列博客：
 https://www.cnblogs.com/simon-idea/category/1522621.html
 
-微信公众号：
-
-![在这里插入图片描述](http://mmbiz.qpic.cn/mmbiz_png/f7PI7yfia3SeB52ACgSJtN24iccuN2hXm0ldmHPxEDE6JcBHI2tArxuc2zib3qBrxnEmoibtbKHnsSvV64PnUXS4icA/0)
-
 
